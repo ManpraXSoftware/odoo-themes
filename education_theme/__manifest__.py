@@ -1,8 +1,8 @@
 {
-    'name': 'Clean Theme',
-    'description': 'Clean Theme',
+    'name': 'Education Theme',
+    'description': 'Education Theme',
     'category': 'Themes',
-    'summary': 'Simple Clean Odoo Theme',
+    'summary': 'Simple Education Odoo Theme',
     'sequence': 20,
     'version': '1.0',
     'website': 'https://www.manprax.com',

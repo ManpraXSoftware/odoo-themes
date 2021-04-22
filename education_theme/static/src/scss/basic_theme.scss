@@ -1,0 +1,53 @@
+
+// Colors
+$o-community-color: #006d77;
+$o-enterprise-color: #875A7B;
+$o-enterprise-primary-color: #00A09D;
+
+$o-brand-odoo: $o-community-color;
+$o-brand-primary: $o-community-color;
+
+$o-brand-secondary: #f0eeee;
+$o-brand-lightsecondary: #e2e2e0;
+$o-gray-100: #f8f9fa; // This is BS default
+
+$o-main-color-muted: #a8a8a8;
+$o-main-text-color: #4c4c4c;
+
+$o-view-background-color: white;
+$o-shadow-color: #303030;
+
+$o-form-lightsecondary: #ccc;
+
+$o-list-footer-bg-color: #eee;
+$o-list-footer-font-weight: bold;
+
+$o-tooltip-background-color: white;
+$o-tooltip-color: #666666;
+$o-tooltip-arrow-color: white;
+$o-tooltip-text-color: #777777;
+$o-tooltip-title-text-color: black;
+$o-tooltip-title-background-color: #F7F7F7;
+
+$o-colors: lighten(#000, 46.7%), #F06050, #F4A460, #F7CD1F, #6CC1ED, #814968,
+              #EB7E7F, #2C8397, #475577, #D6145F, #30C381, #006d77 !default;
+
+.o_cc3, .o_footer {
+	background-color: #006d77;
+}
+
+.o_wslides_gradient {
+	background-image: linear-gradient(120deg, #e29578, #e29578);
+}
+
+.o_cc5 a:not(.btn), .o_footer a:not(.btn), .o_cc5 .btn-link, .o_footer .btn-link, .o_colored_level .o_cc5 a:not(.btn), .o_colored_level .o_footer a:not(.btn), .o_colored_level .o_cc5 .btn-link, .o_colored_level .o_footer .btn-link {
+	color: #FFF;
+}
+
+.o_form_view .oe_button_box .oe_stat_button .o_button_icon {
+	color: #e29578;
+}
+
+.o_required_modifier.o_input, .o_required_modifier .o_input {
+    background-color: #ffddd2 !important;
+}
