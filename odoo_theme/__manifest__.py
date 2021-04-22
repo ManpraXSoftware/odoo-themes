@@ -1,15 +1,17 @@
 {
-    'name': 'Odoo Theme',
-    'description': 'Odoo Theme',
-    'category': 'Theme/Services',
-    'summary': 'Corporate, Business, Tech, Services',
-    'sequence': 120,
-    'version': '2.0',
-    'author': 'Manprax Software LLP',
+    'name': 'Clean Theme',
+    'description': 'Clean Theme',
+    'category': 'Themes',
+    'summary': 'Simple Clean Odoo Theme',
+    'sequence': 20,
+    'version': '1.0',
+    'website': 'https://www.manprax.com',
+    'author': 'ManpraX Software LLP',
     'depends': ['base'],
     'data': [
         'views/templates.xml'
     ],
-    'images': [],
-    'license': 'LGPL-3',
+    'images': ["static/description/images/banner.png"],
+    'application': True,
+    'license': 'AGPL-3',
 }
