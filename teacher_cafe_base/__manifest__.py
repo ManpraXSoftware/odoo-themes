@@ -1,5 +1,5 @@
 {
-    'name': 'Education Theme',
+    'name': 'Teacher Cafe Base Theme',
     'description': 'Education Theme',
     'category': 'Themes',
     'summary': 'Simple Education Odoo Theme',
